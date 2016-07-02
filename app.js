@@ -7,11 +7,11 @@ site.init({
 
   // This line is required and allows apostrophe-site to use require() and manage our NPM modules for us.
   root: module,
-  shortName: 'apostrophe-sandbox',
-  hostName: 'apostrophe-sandbox',
-  title: 'Apostrophe Sandbox',
+  shortName: 'auguried',
+  hostName: 'web.dapoaugury.com',
+  title: 'Auguried Sandbox',
   sessionSecret: 'apostrophe sandbox demo party',
-  adminPassword: 'demo',
+  adminPassword: 'info4you',
 
   // Force a2 to prefix all of its URLs. It still
   // listens on its own port, but you can configure

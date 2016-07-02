@@ -1,7 +1,7 @@
 {
-  "name": "the-new-demo",
+  "name": "web",
   "version": "0.5.0",
-  "description": "Demo site featuring typical Apostrophe features",
+  "description": "auguried by dapoaugury",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/punkave/apostrophe-sandbox"
   },
-  "author": "P'unk Avenue",
+  "author": "MC",
   "license": "BSD",
   "dependencies": {
     "apostrophe-blog-2": "0.5.x",
